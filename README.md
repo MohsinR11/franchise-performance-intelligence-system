@@ -143,6 +143,12 @@ franchise-intelligence-system/
 ### Phase 5 - Delivery
 - Power BI 4-page executive dashboard with drill-through
 - Excel scorecard with conditional formatting for franchise ops team
+- Dashboard access: https://drive.google.com/file/d/1q6PTDVbokuLP-me8lzboiizf9BX5Npd9/view?usp=sharing
+
+![PAGE 1 - Executive Overview](https://github.com/MohsinR11/franchise-performance-intelligence-system/blob/main/Dashboard%20Pages/PAGE%201%20-%20Executive%20Overview.png)
+![PAGE 2 - Franchise Leaderboard](https://github.com/MohsinR11/franchise-performance-intelligence-system/blob/main/Dashboard%20Pages/PAGE%202%20-%20Franchise%20Leaderboard.png)
+![PAGE 3 - Cluster Intelligence](https://github.com/MohsinR11/franchise-performance-intelligence-system/blob/main/Dashboard%20Pages/PAGE%203%20-%20Cluster%20Intelligence.png)
+![PAGE 4 - Intervention Priority](https://github.com/MohsinR11/franchise-performance-intelligence-system/blob/main/Dashboard%20Pages/PAGE%204%20-%20Intervention%20Priority.png)
 
 ---
 
