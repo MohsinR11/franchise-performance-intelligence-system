@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+statsmodels
+psycopg2-binary
+sqlalchemy
+ipykernel
+ydata-profiling
+openpyxl
+jupyter
