@@ -1,4 +1,4 @@
-# Franchise Performance Benchmarking & Outlier Intelligence System
+# 🏪 Franchise Performance Benchmarking & Outlier Intelligence System
 
 ---
 
@@ -295,7 +295,12 @@ This system enables a QSR chain to:
 ## Author
 
 **Mohsin Raza**
+
 Data Analyst | Python | SQL | Power BI | Machine Learning
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinraza-data/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinansari1799@gmail.com)
 
 ---
 
